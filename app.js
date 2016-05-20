@@ -497,5 +497,3 @@ app.get("/getAll", function(req, res) {
 
 app.listen(8000);
 
-//test
-
